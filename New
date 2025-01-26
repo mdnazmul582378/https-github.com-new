@@ -1,0 +1,103 @@
+#EXT-X-CUSTOM: START One Piece
+#EXTINF:-1 tvg-name="One Piece" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE|SEASON 1"
+#Main Channel
+#EXTINF:-1 tvg-id="31" tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="32" tvg-name="Episode 2" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="33" tvg-name="Episode 3" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="34" tvg-name="Episode 4" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="35" tvg-name="Episode 5" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="36" tvg-name="Episode 6" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="37" tvg-name="Episode 7" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="38" tvg-name="Episode 8" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="39" tvg-name="Episode 9" tvg-logo="https://upload.wikimedia.org/wikipedia/lb/7/75/One_Piece_Logo.png?20150128173847" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXT-X-CUSTOM: END One Piece
+
+#EXT-X-CUSTOM: START Naruto Season 1
+#EXTINF:-1 tvg-name="NarutoS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="ACTION|MYSTERY|ADVENTURE"
+#Main Channel
+#EXTINF:-1 tvg-id="10" tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXTINF:-1 tvg-id="11" tvg-name="Episode 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXTINF:-1 tvg-id="12" tvg-name="Episode 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXTINF:-1 tvg-id="13" tvg-name="Episode 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXTINF:-1 tvg-id="14" tvg-name="Episode 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1600px-Naruto_logo.svg.png" group-title="FANTASY|ACTION|COMEDY"
+Streaming.link
+#EXT-X-CUSTOM: END Naruto Season 1
+
+
+#EXT-X-CUSTOM: START Dragon Ball Z
+#EXTINF:-1 tvg-name="Dragon Ball Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE|SEASON 1"
+#Main Channel
+#EXTINF:-1 tvg-id="20" tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="21" tvg-name="Episode 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="22" tvg-name="Episode 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="23" tvg-name="Episode 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXTINF:-1 tvg-id="24" tvg-name="Episode 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dragon_Ball_Z_Logo_A.png/1600px-Dragon_Ball_Z_Logo_A.png" group-title="ACTION|ADVENTURE"
+Streaming.link
+#EXT-X-CUSTOM: END Dragon Ball Z
+
+
+#EXT-X-CUSTOM: START Attack on Titan
+#EXTINF:-1 tvg-name="Attack on Titan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA|SEASON 1"
+#Main Channel
+#EXTINF:-1 tvg-id="41" tvg-name="Episode 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="42" tvg-name="Episode 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="43" tvg-name="Episode 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="44" tvg-name="Episode 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="45" tvg-name="Episode 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="46" tvg-name="Episode 6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="47" tvg-name="Episode 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="48" tvg-name="Episode 8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXTINF:-1 tvg-id="49" tvg-name="Episode 9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|DRAMA"
+Streaming.link
+#EXT-X-CUSTOM: END Attack on Titan
+
+
+#EXT-X-CUSTOM: START My Hero Academia
+#EXTINF:-1 tvg-name="My Hero Academia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO|SEASON 1"
+#Main Channel
+#EXTINF:-1 tvg-id="51" tvg-name="Episode 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="52" tvg-name="Episode 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="53" tvg-name="Episode 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="54" tvg-name="Episode 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="55" tvg-name="Episode 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="56" tvg-name="Episode 6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="57" tvg-name="Episode 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="58" tvg-name="Episode 8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="59" tvg-name="Episode 9" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXTINF:-1 tvg-id="60" tvg-name="Episode 10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpPDgEEJMoYXDB__N5gZRXq_PpDC36zpkHsZyhRisY1zJ9byqfSCfXvCPTQld1orafF8VkcVt8bWRKR_6uehC2vPSb1jxyxeLNyZkBtgdFzzRUX6V8cebD4Ai-tnFXOk6YJ34MDXmmypUGVygFcA_OHKH7F0YH7yuSn8edmIR1Q0x3bqS7OSahWE0sQ/s320/pushpa2-1.jpg" group-title="ACTION|SUPERHERO"
+Streaming.link
+#EXT-X-CUSTOM: END My Hero Academia
